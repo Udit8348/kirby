@@ -1,8 +1,7 @@
 # Kirby
 
-## ECE 2031 Final Project
-
-**Overview**: Develop a *peripheral device* to inteface with a simple computer (*SCOMP*) implemented in vhdl and executed on an FPGA. The project is framed as a pitch to "investors" who are looking for a simple device to address the problem statement given below. As an additional bonus additional features are favorable. Judging is done based on a practical product pitch and a technical demo of the device's functionality in the form of a playable game. 
+## Overview
+Develop a *peripheral device* to inteface with a simple computer (*SCOMP*) implemented in vhdl and executed on an FPGA. The project is framed as a pitch to "investors" who are looking for a simple device to address the problem statement given below. As an additional bonus additional features are favorable. Judging is done based on a practical product pitch and a technical demo of the device's functionality in the form of a playable game. 
 
 **Problem Statement**: Simplify addressing individual leds arranged in an array. The challeging aspect of this task is the zig-zagged orientation of the led strips as shown below. Therefore, the proposed perhiperal needs to make using the led-array more intuitive. To prove the quality of the peripheral an interactive game needs to be developed that utilizes the peripheral to drive the led-array. The game needs to be written in assembly based on the SCOMP ISA.
 
